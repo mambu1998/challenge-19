@@ -20,7 +20,7 @@ Clone to your local machine and open in your favorite code editor. Open a bash t
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15"
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1
 
 ### Screenshot
 
